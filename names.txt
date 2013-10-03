@@ -5,4 +5,9 @@ ThineReverence - Evan Shi
 SarahNathanson -Sarah Nathanson
 alesta - Alexander Stangl
 IcyVines - Roy Keren
+<<<<<<< HEAD
 dmeluban- Dean Meluban
+=======
+chrchicheese - Christina Chi
+Zakrokx - Reuben Mejia
+>>>>>>> 8a25b76aa1a3d449d7796ca0b5b9c10e9c9c51eb
